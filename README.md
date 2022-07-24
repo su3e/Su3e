@@ -1,7 +1,8 @@
 # Hi there, I'm Sue 👋 
 
-with some basic programming skills, a lot of enthusiasm for learning new things 
-and a bunch of crazy ideas, I'm trying to develop my first useful android app. 
-Later I would like to develop apps that can make life a bit easier for people with visual impairments or other special needs.
+I love programming but have relatively little to do with it in my current job.
+So I'm teaching myself how to build apps in my spare time.
 
-I'm just getting started. Let's see where the journey takes me... 😊
+Later, I would like to develop useful apps that can make life easier for people with visual impairments or other special needs.
+
+I'm just getting started. Let's see where the journey takes me.... 😊
